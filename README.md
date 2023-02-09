@@ -10,8 +10,8 @@ it works like a charm when, wpml is installed but:
 - taxonomy is not translated
 
 # second step
-- we define custom-post-type as translatable with the following slugs:
+- we define custom-post-type as translatable with the following slugs:  
+-- IT (main lang): citta/%city_category%  
+-- EN: city/%city_category%  
+-- FR: ville/%city_category%  
 
--- IT (main lang): citta/%city_category% 
--- EN: city/%city_category% 
--- FR: ville/%city_category% 
